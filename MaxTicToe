@@ -15,4 +15,3 @@ In1=raw_input("P1 Vs Computre")
 In2=raw_input("P1 Vs P2")
 In3=raw_input("Rules")
 
-
