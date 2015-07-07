@@ -1,4 +1,18 @@
-#!/usr/env python
+#!/usr/bin/env python
+
+def functionA(p1,p2,rule):
+	 	return p1
+	 	return p2
+	 	return rule
+
+def functionB():
 
 
-def function 
+
+# Main 
+
+In1=raw_input("P1 Vs Computre")
+In2=raw_input("P1 Vs P2")
+In3=raw_input("Rules")
+
+
