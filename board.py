@@ -1,9 +1,6 @@
 #!usr/bin/env python
 
-board =[]
-for i in range (9):
-	board.append(-1)
-print board
+
 
 def print_board(board):
 
@@ -26,3 +23,13 @@ def print_board(board):
 			print "-----------------"
 		else:
 			print 
+
+			
+
+
+board =[]
+for i in range (9):
+	board.append(-1)
+
+
+print_board(board)
